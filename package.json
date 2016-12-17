@@ -1,0 +1,22 @@
+{
+  "name": "annoyingchess",
+  "version": "1.0.0",
+  "description": "Annoying Chess",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/georgeslater/annoyingchess.git"
+  },
+  "keywords": [
+    "chess"
+  ],
+  "author": "George Slater",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/georgeslater/annoyingchess/issues"
+  },
+  "homepage": "https://github.com/georgeslater/annoyingchess#readme"
+}
